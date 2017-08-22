@@ -29,7 +29,7 @@ Before getting our hands dirty working with real data in R, we need to learn the
 <br>
 
 ### Instructors:
-Armand Bankhead (AB)
+Armand Bankhead III (AB)
 Jacob Kitzman (JOK)
 Ryan Mills (RM)  
 
